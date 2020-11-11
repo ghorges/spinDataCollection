@@ -1,0 +1,8 @@
+c:\users\ma\documents\visual studio 2010\Projects\DataCollection\DataCollection\bin\Debug\DataCollection.exe
+c:\users\ma\documents\visual studio 2010\Projects\DataCollection\DataCollection\bin\Debug\DataCollection.pdb
+c:\users\ma\documents\visual studio 2010\Projects\DataCollection\DataCollection\obj\x86\Debug\DataCollection.Form1.resources
+c:\users\ma\documents\visual studio 2010\Projects\DataCollection\DataCollection\obj\x86\Debug\DataCollection.Properties.Resources.resources
+c:\users\ma\documents\visual studio 2010\Projects\DataCollection\DataCollection\obj\x86\Debug\DataCollection.csproj.GenerateResource.Cache
+c:\users\ma\documents\visual studio 2010\Projects\DataCollection\DataCollection\obj\x86\Debug\DataCollection.exe
+c:\users\ma\documents\visual studio 2010\Projects\DataCollection\DataCollection\obj\x86\Debug\DataCollection.pdb
+C:\Users\ma\Documents\Visual Studio 2010\Projects\DataCollection\DataCollection\obj\x86\Debug\DataCollection.csprojResolveAssemblyReference.cache
